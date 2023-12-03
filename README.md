@@ -1,4 +1,4 @@
-# mlops_end_to_end_project
+# MLOPS END TO END PROJECT WITH GITHUB ACTIONS
   ## This repository was created for these purposes and is a final project for the MLOps Bootcamp(September-2023) taken within the scope of Istanbul Data Science.
 ## Purpose of CI/CD MLOps Project with Github Actions 
 First purpose is to provide a framework for effectively developing, deploying and managing machine learning models.
