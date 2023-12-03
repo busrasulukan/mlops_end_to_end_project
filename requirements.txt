@@ -1,5 +1,8 @@
-scikit-learn
-pandas
-numpy
 fastapi
-pydantic
+numpy
+pandas
+Pillow
+scikit-learn
+uvicorn
+pytest
+httpx
